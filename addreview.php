@@ -1,6 +1,6 @@
 <?php
 
-$hostname = "localhost";
+$hostname = "172.17.0.3:3306";
 $username = "hodnoceni";
 $password = "hodnoceni";
 $db = "reviews";
